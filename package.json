@@ -9,7 +9,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "nodemon": "^1.18.10",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "mysql2": "^1.6.1",
     "sequelize": "^5.0.0-beta.11"
   },
